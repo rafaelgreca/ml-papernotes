@@ -33,7 +33,7 @@ deep-learning; nlp (natural language processing); sentence-classification; vad (
 * [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)
     * Author(s): Yoon Kim
     * Tags: deep-learning, nlp, sentiment-analysis
-    * Paper note link
+    * [Paper note link](https://rafaelgreca.github.io/blog/2022/cnn_sentence_classification/)
 * [A Hybrid CNN-BiLSTM Voice Activity Detector](https://arxiv.org/abs/2103.03529)
     * Author(s): Nicholas Wilkinson and Thomas Niesler
     * Tags: deep-learning, speech, vad, sad
